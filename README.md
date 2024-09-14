@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 <h1>HELLO, POTATO</h1>
 
 <h2>💼 Experiences 💼</h2>
-<p>
   <br>• 🖥️ 2021.03 ~ 2022.02 홍익대학교 알고리즘 학회 HI-ARC</br>
-  <br><img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge" style="display: flex; align-items: center"> ⛓️ 2022.01 ~ 2023.02 홍익대학교 블록체인 학회 HIBL
-  </br>
-</p>
+  <br>• ⛓️ 2022.01 ~ 2023.02 홍익대학교 블록체인 학회 HIBL</br>
