@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h2>💼 Experiences 💼</h2>
 <p>🖥️ 2021.03 ~ 2022.02 홍익대학교 알고리즘 학회 HI-ARC</p>
 <div>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge>
-  ⛓️ 2022.01 ~ 2023.02 홍익대학교 블록체인 학회 HIBL</img>
+  
+  <p>⛓️ 2022.01 ~ 2023.02 홍익대학교 블록체인 학회 HIBL<img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge></p>
 </div>
 
 ![Ethreum](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
