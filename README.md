@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<a href="링크"><img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
-<a href="링크"><img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-
-
+<a href="링크"><img src=""/></a>
+![Audi](https://img.shields.io/badge/Audi-BB0A30?logo=audi&logoColor=fff&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
