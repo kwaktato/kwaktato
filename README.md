@@ -15,7 +15,7 @@
 <br/>
 
 
-<h2>🛠️ SKILLS 🛠️</h2>
+<h2>🛠️ Development 🛠️</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-E44C30?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -31,7 +31,7 @@
 <br/>
 
 
-<h2>⚒️ TOOLS ⚒️</h2>
+<h2>⚒️ Environment ⚒️</h2>
 <p>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
