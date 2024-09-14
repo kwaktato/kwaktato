@@ -12,7 +12,6 @@
 -->
 
 <h1>WELCOME TO POTATO'S WORLD</h1>
-<br/>
 
 
 <h2>🛠️ Development 🛠️</h2>
