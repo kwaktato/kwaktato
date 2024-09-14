@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge">
   <p>⛓️ 2022.01 ~ 2023.02 홍익대학교 블록체인 학회 HIBL</p>
-</div>![Ethreum](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
+</div>
 
-
-<a href="링크"><img src=""/></a>
+![Ethreum](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)
 ![Audi](https://img.shields.io/badge/Audi-BB0A30?logo=audi&logoColor=fff&style=for-the-badge)
