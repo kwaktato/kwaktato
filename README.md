@@ -12,13 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>HELLO, POTATO</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-<h1 decoration-line = none>HELLO WORLD</h1>
-<h2 backgroundColor = black>It's POTATO world</h2>
+<h2>💼 Experiences 💼</h2>
+<p>🖥️ 2021.03 ~ 2022.02 홍익대학교 알고리즘 학회 HI-ARC</p>
+<p>⛓️ 2022.01 ~ 2023.02 홍익대학교 블록체인 학회 HIBL</p>
 
 <a href="링크"><img src=""/></a>
 ![Audi](https://img.shields.io/badge/Audi-BB0A30?logo=audi&logoColor=fff&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
