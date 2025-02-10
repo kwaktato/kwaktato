@@ -16,15 +16,8 @@
 
 <h2>🛠️ Development 🛠️</h2>
 <p>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-E44C30?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <br/>
@@ -44,7 +37,6 @@
 <p>
   <img src="https://img.shields.io/badge/Xcode-20BEF5?style=for-the-badge&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-802DAD.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 </br>
 
@@ -58,5 +50,5 @@
   <p>• 🌐 2023.03 ~ 2023.08 홍익대학교 UMC 4th Web 챌린저</p>
   <p>• 📱 2023.09 ~ 2024.02 홍익대학교 UMC 5th iOS 챌린저</p>
   <p>• 🌱 2024.03 ~ 2024.08 홍익대학교 UMC 6th Spring 챌린저</p>
-  <p>• 🖥️ 2024.03 ~ 2024.08 홍익대학교 UMC 6th  Web 파트장</p>
+  <p>• 🖥️ 2024.03 ~ 2024.08 홍익대학교 UMC 6th Web 파트장</p>
 </div>
